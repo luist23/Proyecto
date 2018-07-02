@@ -36,7 +36,8 @@ public class Granade extends Application {
 
 
         imageView.setLayoutX(10);
-        imageView.setLayoutY(23);
+        imageView.setLayoutY(24);
+
 
         root.getChildren().add(imageView);
         for (int i=1;i<20;i++){
